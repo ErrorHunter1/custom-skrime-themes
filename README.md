@@ -1,12 +1,15 @@
 # Skrime Themes
 
 **Diese wurde mit KI generiert**
-Ich als ersteller und Tom (Inhaber von Skrime) haften nicht für fehler die auf Nutzereben laufen. Solltet ihr versehentlich einen Server löschen sind wir nicht verantwortlich hierfür- 
+
+Ich als ersteller und Tom (Inhaber von Skrime) haften nicht für fehler die auf Nutzereben laufen. Solltet ihr versehentlich einen Server löschen sind wir nicht verantwortlich hierfür
+
 Discord: https://discord.com/users/966341514412322857
 
 Tom meinte:
 
 "mach was du nicht lassen kannst :D
+
 Wenn du damit dein Produkt schrottest bist du selber dafür verantwortlich :D"
 
 Browser-Extension (Manifest V3) für **skrime.eu**:
