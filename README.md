@@ -7,6 +7,8 @@ Browser-Extension (Manifest V3) für **skrime.eu**:
 
 ## Installation
 
+**ZIP Herunterladen und entpacken
+
 **Chrome / Edge / Brave / Opera:** `chrome://extensions` → Entwicklermodus an → „Entpackte Erweiterung laden“ → diesen Ordner wählen.
 
 **Firefox (≥ 121):** `about:debugging#/runtime/this-firefox` → „Temporäres Add-on laden“ → `manifest.json` wählen.
